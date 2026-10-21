@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/preshed/commit/18eb82ba07dde69ab12f2271ee3da4cd5e94039a",
       "git:hexsha": "18eb82ba07dde69ab12f2271ee3da4cd5e94039a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:23:03.907196+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/preshed/commit/30b58097536802139552623217d8dc8a1068b6ab",
