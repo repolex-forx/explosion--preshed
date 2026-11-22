@@ -89,6 +89,65 @@
       ],
       "ast": [
         "aggregate/ast/1d274ae9601396830ae340f501ee0a63a2c63239/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1d274ae9601396830ae340f501ee0a63a2c63239.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "cymem",
+          "ecosystem": "PYPI",
+          "version": "2.0.2",
+          "githubOrg": "explosion",
+          "githubRepo": "cymem",
+          "githubCommit": "face8eb2c74399e398d932ff282017d4981432c8",
+          "githubTag": "v2.0.2",
+          "githubUrl": "https://github.com/explosion/cymem",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "cython",
+          "ecosystem": "PYPI",
+          "version": "0.28",
+          "githubOrg": "cython",
+          "githubRepo": "cython",
+          "githubCommit": "c2b80d87658a8525ce091cbe146cb7eaa29fed5c",
+          "githubTag": "0.28",
+          "githubUrl": "https://github.com/cython/cython",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "murmurhash",
+          "ecosystem": "PYPI",
+          "version": "0.28.0",
+          "githubOrg": "explosion",
+          "githubRepo": "murmurhash",
+          "githubCommit": "b4c0431099cc67408d054f980881503d8ed16bc2",
+          "githubTag": "v0.28.0",
+          "githubUrl": "https://github.com/explosion/murmurhash",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/_distutils/command/build_ext.py"
+        }
       ]
     }
   ],
