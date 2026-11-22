@@ -3,6 +3,11 @@
   "repo": "preshed",
   "versions": [
     {
+      "commit": "1d274ae9601396830ae340f501ee0a63a2c63239",
+      "tag": "v4.0.0",
+      "parsed_at": "2026-11-22T00:52:49.851210+00:00"
+    },
+    {
       "commit": "18eb82ba07dde69ab12f2271ee3da4cd5e94039a",
       "tag": "",
       "parsed_at": "2026-10-21T03:23:03.908003+00:00"
